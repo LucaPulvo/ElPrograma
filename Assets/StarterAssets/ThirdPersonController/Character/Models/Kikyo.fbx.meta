@@ -3,32 +3,7 @@ guid: fab2a233906f031408a9c69c61f6ea84
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: body
-    second: {fileID: 2100000, guid: 19b5d1fdcaa9a5b4fbc7877aaf230b1e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: cloth
-    second: {fileID: 2100000, guid: c6c66df40508d1a43be21f89b59d8ce0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: face
-    second: {fileID: 2100000, guid: 41a9f6ed52f7ee4428225aa965fd299f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: handbottom
-    second: {fileID: 2100000, guid: 9d3c0e3903cc21941932b4a2cac54050, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: handtop
-    second: {fileID: 2100000, guid: b257a51fd2bbdc346842e26ef374ba72, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
