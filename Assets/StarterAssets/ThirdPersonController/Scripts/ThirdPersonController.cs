@@ -159,8 +159,15 @@ namespace StarterAssets
             JumpAndGravity();
             GroundedCheck();
             Move();
+            AimShoot();
         }
+        private void AimShoot()
+        {
+            if(_input.isAiming && Grounded && !_input.sprint)
+            {
 
+            }
+        }
         private void LateUpdate()
         {
             CameraRotation();
